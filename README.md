@@ -8,6 +8,7 @@
 * [require 和 import 的区别](https://github.com/longyangxing/articles/issues/8)
 * [promise学习笔记](https://github.com/longyangxing/articles/issues/5)
 * [jsonp原理](https://github.com/longyangxing/articles/issues/4)
+#### 深入理解Javascript
 
 ### 兼容
 * [ie兼容性问题记录](ie兼容性问题记录)
